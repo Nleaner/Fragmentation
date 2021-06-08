@@ -1,7 +1,7 @@
 # Fragmentation
 
 
-一些js,Jquery代码片段记录
+一些零零碎碎的记录
 
 
 
